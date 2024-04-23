@@ -1,0 +1,8 @@
+.app-component-container{
+  min-height: 100vh;
+  --bs-gutter-x: 0;
+}
+.home-page-container{
+  background-color: #1b263b;
+  /* background-color: #e0e1dd; */
+}
